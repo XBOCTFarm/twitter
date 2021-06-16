@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T10:02:09.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.177 (Edition Campaign 34)" etag="Ar98MVPyIadZW5bii5db" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T10:08:43.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.177 (Edition Campaign 34)" etag="vlQ1hwmBOBmN8-p7MP1L" version="14.7.6" type="github">
   <diagram id="pJoFEZl7sex4rtorHa4q" name="Page-1">
-    <mxGraphModel dx="1155" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1685" dy="937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,8 +53,11 @@
         <mxCell id="i0wq9XvghO8cc2X9sPR5-14" value="Ожидание запуска сети" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1051" y="660" width="124" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0wq9XvghO8cc2X9sPR5-17" target="i0wq9XvghO8cc2X9sPR5-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-17" value="Переход на ручное управление сетью" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438.5" y="660" width="125" height="36" as="geometry" />
+          <mxGeometry x="475" y="660" width="125" height="36" as="geometry" />
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-21" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="941" y="594" width="40" height="20" as="geometry" />
@@ -160,10 +163,10 @@
           <mxGeometry x="891.88" y="1154" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-56" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1184" y="747" width="40" height="20" as="geometry" />
+          <mxGeometry x="1183" y="751" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-57" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="966.88" y="1007" width="40" height="20" as="geometry" />
+          <mxGeometry x="966.88" y="1012" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-58" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1372" y="1014" width="40" height="20" as="geometry" />
@@ -172,7 +175,7 @@
           <mxGeometry x="986" y="1242" width="127.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-60" value="Отключение светильников до след. итерации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1372" y="1260" width="127.75" height="44" as="geometry" />
+          <mxGeometry x="1390.25" y="1245" width="127.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-63" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="971.88" y="1173" width="40" height="20" as="geometry" />
@@ -198,10 +201,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-74" value="Переход в электросеть" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="429" width="93.5" height="93" as="geometry" />
+          <mxGeometry x="330.5" y="427" width="93.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0wq9XvghO8cc2X9sPR5-78" target="i0wq9XvghO8cc2X9sPR5-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="1318" />
+              <mxPoint x="392" y="1318" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="i0wq9XvghO8cc2X9sPR5-78" value="Обрыв сети" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82" y="508" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0wq9XvghO8cc2X9sPR5-79" target="i0wq9XvghO8cc2X9sPR5-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-79" value="Выбор улицы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="721" width="125" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i0wq9XvghO8cc2X9sPR5-81" target="i0wq9XvghO8cc2X9sPR5-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-81" value="Выбор источника освещения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="782" width="125" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-83" value="Подача напряжения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="840" width="125" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-85" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="1383" width="91" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-87" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="448" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wq9XvghO8cc2X9sPR5-88" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="296" y="449" width="30" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
